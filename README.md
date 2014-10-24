@@ -11,5 +11,5 @@ An organic list of my S.M.A.R.T. goals
       - [ ]Practical LINQ - http://www.pluralsight.com/courses/practical-linq
       - [ ]C# Generics - http://www.pluralsight.com/courses/csharp-generics
     - [ ]General Skills
-      - [ ]Finish reading the Pragmatic Programmer
+      - []Finish reading the Pragmatic Programmer
 
