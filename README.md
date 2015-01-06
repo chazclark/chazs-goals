@@ -3,6 +3,7 @@ chazs-goals
 
 An organic list of my S.M.A.R.T. goals
 
+### Skillsets
 - [ ] Further AngularJS skills
   - [x] finish reading ng-book
 - [ ] Learn C# and .NET
@@ -12,4 +13,5 @@ An organic list of my S.M.A.R.T. goals
       - [ ] C# Generics - http://www.pluralsight.com/courses/csharp-generics
     - [ ] General Skills
       - [x] Finish reading the Pragmatic Programmer
-
+### Professional Development
+- [ ] Give a dev talk (candidates: angular clean code, bootstrap)
